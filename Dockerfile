@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER Amit Malhotra <amalhotra@premiumbeat.com>
+MAINTAINER Amit Malhotra <amit08@gmail.com>
 
 # Set US locale
 RUN localedef --quiet -c -i en_US -f UTF-8 en_US.UTF-8
